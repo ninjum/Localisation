@@ -3784,3 +3784,5 @@ STR_6707    :(Ningún escollido)
 STR_6708    :Intensidade de suavizado
 STR_6709    :Introduce a intensidade de suavizado entre {COMMA16} e {COMMA16}
 STR_6710    :Ordenación estable
+STR_6711    :Nome do arquivo:
+STR_6712    :Gardar
