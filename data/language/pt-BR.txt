@@ -230,7 +230,6 @@ STR_0820    :Nov
 STR_0821    :Dez
 STR_0822    :Impossível acessar arquivo de dados gráficos
 STR_0823    :Arquivo de dados ausente ou inacessível
-STR_0824    :{BLACK}❌
 STR_0825    :Nome escolhido já está em uso
 STR_0826    :Foram definidos nomes em excesso
 STR_0827    :Dinheiro insuficiente - requer {CURRENCY2DP}
@@ -2675,7 +2674,7 @@ STR_5573    :Remover dos Favoritos
 STR_5574    :Nome do Servidor:
 STR_5575    :Máximo de Jogadores:
 STR_5576    :Porta:
-STR_5577    :Won Sul-Coreano(W)
+STR_5577    :Won Sul-Coreano(₩)
 STR_5578    :Rublo Russo (₽)
 STR_5579    :Fator escalar da janela:
 STR_5580    :Coroa Tcheca (Kč)
@@ -3200,7 +3199,6 @@ STR_6160    :{WINDOW_COLOUR_2}Veículos disponíveis: {BLACK}{STRING}
 STR_6161    :Alternar exibição de grade
 STR_6162    :Rato Maluco Giratório
 STR_6163    :Carros no formato de rato correm por curvas fechadas e pequenas quedas, girando suavemente para desorientar os passageiros
-STR_6164    :{WHITE}❌
 STR_6165    :Usar sincronização vertical
 STR_6166    :Sincroniza cada quadro mostrado com a taxa de atualização do monitor, prevenindo cortes na tela.
 STR_6167    :Avançado
@@ -3830,3 +3828,4 @@ STR_7039    :Tipo de atração
 STR_7040    :Acréscimos dos caminhos
 STR_7041    :Painel de informações do parque
 STR_7042    :Painel de informações da data
+STR_7043    :Não é possível mudar a altura do terreno aqui…
